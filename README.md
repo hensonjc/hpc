@@ -1,2 +1,2 @@
-# hpc
+# HPC Resources
 UOG HPC resources
