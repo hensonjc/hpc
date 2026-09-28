@@ -4,7 +4,7 @@ Beginner-friendly tutorials for using high-performance computing (HPC) systems, 
 
 ## 📖 Start here
 
-**All tutorials live in the [Wiki](https://github.com/hensonjc/hpc/wiki).** Click the link above, or the **Wiki** tab at the top of this page, to get started.
+**All tutorials live in the [Wiki](https://github.com/hensonjc/hpc/wiki).** Click the link here, or the **Wiki** tab at the top of this page, to get started.
 
 ## What's covered
 
